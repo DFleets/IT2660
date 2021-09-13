@@ -113,9 +113,6 @@ public class Seating {
 		System.out.println("Plane seating: ");
 		display(plane);
                                 
- 
-                
- 
       
     }    
         
