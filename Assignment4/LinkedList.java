@@ -13,7 +13,7 @@ public class LinkedList{
     
     private Node head;
     private int listCount;
-    Node next;
+   
     
     public LinkedList(){
         
