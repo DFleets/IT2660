@@ -78,7 +78,7 @@ public class Driver {
                 "\t\t3 delete student record\n" +
                 "\t\t4 update student record\n" +
                 "\t\t5 output all student records\n" +
-                "\t\t6 exit the program");
+                "\t\t6 exit program");
     }    
     
 }
